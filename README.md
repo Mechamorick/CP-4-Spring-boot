@@ -79,7 +79,3 @@ http://localhost:8080/h2-console
 - **Senha**: `password`
 
 Caso você queira configurar outro banco de dados, como **MySQL** ou **PostgreSQL**, ajuste as configurações em `src/main/resources/application.properties`.
-
-## Autor
-
-Desenvolvido por [Seu Nome].
